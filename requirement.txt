@@ -1,0 +1,8 @@
+pandas
+pypi
+numpy
+tensorflow
+matplotlib
+sklearn
+keras
+google-cloud
